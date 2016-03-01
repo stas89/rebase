@@ -1,3 +1,3 @@
 <div class="one">
-    <p>One file</p>
+    <p>It's one file</p>
 </div>
