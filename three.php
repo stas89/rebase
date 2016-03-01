@@ -1,3 +1,1 @@
-<div class="three">
-    <p>Three file</p>
-</div>
+Все херня давай по новой
